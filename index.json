@@ -1,0 +1,18 @@
+[
+    {
+    "items": ["value1","value2"],
+    "name": "Mario",
+    "age": 25,
+    "address": {"key":"value"},
+    "is_active": true,
+    "updated_profile": false
+},
+{
+    "items": ["value1","value2"],
+    "name": "Mario",
+    "age": 25,
+    "address": {"key":"value"},
+    "is_active": true,
+    "updated_profile": false
+}
+]
